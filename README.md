@@ -68,7 +68,7 @@ A lightweight RAG (Retrieval-Augmented Generation) app built with React.js — c
 
 If you're interested in AI, engineering, or just love tech chats — feel free to reach out!
 
-- 📧 [email]francescopiocirillo.c@gmail.com
+- 📧 francescopiocirillo.c@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/francescopiocirillo/)
 - 🌐 [GitHub](https://github.com/yourusername)
 
