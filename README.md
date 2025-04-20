@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Francesco Pio Cirillo
 
-🎓 *AI Engineer in Training* | 🛠️ *Master’s in Computer Engineering* | 🏆 *Iliad STEM Scholar*
+🛠️ *AI Engineer in Training* | 🎓 *Master’s in Computer Engineering* | 🏆 *Iliad STEM Scholarship Winner*
 
 Welcome to my personal GitHub showcase! This repository gathers the highlights of my academic, professional, and personal journey into the world of **AI**, **Software Engineering**, and **cutting-edge tech**. Whether you're here as a recruiter, collaborator, or fellow tech enthusiast: I'm glad you're exploring my work!
 
