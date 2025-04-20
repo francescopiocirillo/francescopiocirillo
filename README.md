@@ -44,22 +44,22 @@ I believe in blending **technical depth** with **real-world problem solving**, a
 
 Here are some of my favorite repositories you’ll find on my GitHub:
 
-### 🧬 [data-science-appunti](https://github.com/yourusername/data-science-appunti)
+### 🧬 [data-science-appunti](https://github.com/francescopiocirillo/data-science-appunti)
 Structured notes and resources on Data Science and Statistical Learning, including regression, Bayesian inference, classification, and unsupervised learning.
 
-### 🧠 [software-engineering-appunti](https://github.com/yourusername/software-engineering-appunti)
+### 🧠 [software-engineering-appunti](https://github.com/francescopiocirillo/software-engineering-appunti)
 Key concepts of Software Engineering with a focus on architecture, project management, and design patterns — curated from academic lectures and practical insights.
 
-### 🧮 [StackBasedCalculator_gruppo14](https://github.com/yourusername/StackBasedCalculator_gruppo14)
+### 🧮 [StackBasedCalculator_gruppo14](https://github.com/francescopiocirillo/StackBasedCalculator_gruppo14)
 A scientific calculator based on stack logic and variables. Built using HTML/CSS/JavaScript for hands-on experience in data flow and expression evaluation.
 
-### 🍝 [FlyingSauce-r](https://github.com/yourusername/FlyingSauce-r)
+### 🍝 [FlyingSauce-r](https://github.com/francescopiocirillo/FlyingSauce-r)
 A pasta delivery app with a twist — designed as a fun, functional PHP project with backend logic and UI considerations.
 
-### 📅 [EventManagerMobileApp](https://github.com/yourusername/EventManagerMobileApp)
+### 📅 [EventManagerMobileApp](https://github.com/francescopiocirillo/EventManagerMobileApp)
 A cross-platform mobile app to track and manage events. Developed with Dart and Flutter.
 
-### 🔍 [react-rag-app](https://github.com/yourusername/react-rag-app)
+### 🔍 [react-rag-app](https://github.com/francescopiocirillo/react-rag-app)
 A lightweight RAG (Retrieval-Augmented Generation) app built with React.js — combining AI integration with modern frontend architecture.
 
 ---
