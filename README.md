@@ -27,7 +27,7 @@ I'm currently pursuing my Master's Degree in **Computer Engineering** at Univers
 
 Thanks to my commitment and curiosity, I won the **Iliad STEM Scholarship (2nd Edition)**, earning mentorship from leaders in the tech industry and participating in high-impact workshops around corporate innovation and performance.
 
-I believe in blending **technical depth** with **real-world problem solving**, and I thrive in multilingual, multicultural environments 🌍 (English 🇬🇧, Italian 🇮🇹, and a bit of Spanish 🇪🇸 too!).
+I believe in blending **technical depth** with **real-world problem solving**, and I thrive in multilingual, multicultural environments 🌍 (I am fluent in English 🇬🇧 and Italian 🇮🇹... and I speak a bit of Spanish 🇪🇸 too!).
 
 ---
 
