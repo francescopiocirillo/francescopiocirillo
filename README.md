@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 🎓 *AI Engineer in Training* | 🛠️ *Master’s in Computer Engineering* | 🏆 *Iliad STEM Scholar*
 
-Welcome to my personal GitHub showcase! This repository gathers the highlights of my academic, professional, and personal journey into the world of **AI**, **Software Engineering**, and **cutting-edge tech**. Whether you're here as a recruiter, collaborator, or fellow tech enthusiast — I'm glad you're exploring my work.
+Welcome to my personal GitHub showcase! This repository gathers the highlights of my academic, professional, and personal journey into the world of **AI**, **Software Engineering**, and **cutting-edge tech**. Whether you're here as a recruiter, collaborator, or fellow tech enthusiast: I'm glad you're exploring my work!
 
 ---
 
 ## 🚀 About Me
 
-I'm currently pursuing my Master's Degree in **Computer Engineering** at Università degli Studi di Salerno, where I graduated *110/110 Cum Laude* for my Bachelor's. I'm passionate about AI and have hands-on experience building smart solutions like a **virtual healthcare assistant** using **Vertex AI** and **LangChain**.
+I'm currently pursuing my Master's Degree in **Computer Engineering** at Università degli Studi di Salerno, where I graduated *110/110 Cum Laude* for my Bachelor's. I'm passionate about AI and have hands-on experience building smart solutions like a **virtual healthcare assistant** using **Vertex AI** and **LangChain** during my Internship at RiAtlas Srl.
 
 Thanks to my commitment and curiosity, I won the **Iliad STEM Scholarship (2nd Edition)**, earning mentorship from leaders in the tech industry and participating in high-impact workshops around corporate innovation and performance.
 
