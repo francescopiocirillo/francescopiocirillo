@@ -44,7 +44,7 @@ I believe in blending **technical depth** with **real-world problem solving**, a
 
 Here are some of my favorite repositories you’ll find on my GitHub:
 
-### 🧬 [data-science-appunti](https://github.com/francescopiocirillo/data-science-appunti)
+### 📊 [data-science-appunti](https://github.com/francescopiocirillo/data-science-appunti)
 Structured notes and resources on Data Science and Statistical Learning, including regression, Bayesian inference, classification, and unsupervised learning.
 
 ### 🧠 [software-engineering-appunti](https://github.com/francescopiocirillo/software-engineering-appunti)
