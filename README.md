@@ -66,7 +66,7 @@ A lightweight RAG (Retrieval-Augmented Generation) app built with React.js, comb
 
 ## 📫 Let's Connect!
 
-If you're interested in AI, engineering, or just love tech chats — feel free to reach out!
+If you're interested in AI, engineering, or just love tech chats: feel free to reach out!
 
 - 📧 francescopiocirillo.c@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/francescopiocirillo/)
