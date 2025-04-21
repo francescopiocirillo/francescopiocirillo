@@ -51,7 +51,7 @@ Structured notes and resources on Data Science and Statistical Learning, includi
 Key concepts of Software Engineering with a focus on architecture, project management, and design patterns, curated from academic lectures and practical insights. The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
 
 ### 🧮 [java-rpn-scientific-calculator](https://github.com/francescopiocirillo/java-rpn-scientific-calculator)
-A scientific calculator based on stack logic and variables. Built using Java and tested with JUnit to ensure adherence to the expected behaviour.
+A fully-featured Java Scientific Calculator based on Reverse Polish Notation (RPN) and advanced stack operations, developed with a GUI, JUnit testing, and UML planning. Built as part of a university software engineering project using the Waterfall model.
 
 ### 🍝 [FlyingSauce-r](https://github.com/francescopiocirillo/FlyingSauce-r)
 A pasta delivery app with a twist, designed as a fun, functional PHP project with backend logic and UI considerations.
