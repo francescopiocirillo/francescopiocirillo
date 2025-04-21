@@ -50,7 +50,7 @@ Structured notes and resources on Data Science and Statistical Learning, includi
 ### 📝 [software-engineering-appunti](https://github.com/francescopiocirillo/software-engineering-appunti)
 Key concepts of Software Engineering with a focus on architecture, project management, and design patterns, curated from academic lectures and practical insights. All materials are in **Italian**, as they are based on courses I attended at an **Italian university**.
 
-### 🧮 [StackBasedCalculator_gruppo14](https://github.com/francescopiocirillo/StackBasedCalculator_gruppo14)
+### 🧮 [java-rpn-scientific-calculator](https://github.com/francescopiocirillo/java-rpn-scientific-calculator)
 A scientific calculator based on stack logic and variables. Built using Java and tested with JUnit to ensure adherence to the expected behaviour.
 
 ### 🍝 [FlyingSauce-r](https://github.com/francescopiocirillo/FlyingSauce-r)
