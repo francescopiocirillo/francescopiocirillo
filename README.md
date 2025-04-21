@@ -45,10 +45,10 @@ I believe in blending **technical depth** with **real-world problem solving**, a
 Here are some of my favorite repositories you’ll find on my GitHub:
 
 ### 📊 [data-science-appunti](https://github.com/francescopiocirillo/data-science-appunti)
-Structured notes and resources on Data Science and Statistical Learning, including regression, Bayesian inference, classification, and unsupervised learning. All materials are in **Italian**, as they are based on courses I attended at an **Italian university**.
+Structured notes and resources on Data Science and Statistical Learning, including regression, Bayesian inference, classification, and unsupervised learning. The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
 
 ### 📝 [software-engineering-appunti](https://github.com/francescopiocirillo/software-engineering-appunti)
-Key concepts of Software Engineering with a focus on architecture, project management, and design patterns, curated from academic lectures and practical insights. All materials are in **Italian**, as they are based on courses I attended at an **Italian university**.
+Key concepts of Software Engineering with a focus on architecture, project management, and design patterns, curated from academic lectures and practical insights. The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
 
 ### 🧮 [java-rpn-scientific-calculator](https://github.com/francescopiocirillo/java-rpn-scientific-calculator)
 A scientific calculator based on stack logic and variables. Built using Java and tested with JUnit to ensure adherence to the expected behaviour.
