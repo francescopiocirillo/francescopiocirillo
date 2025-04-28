@@ -53,7 +53,7 @@ Key concepts of Software Engineering with a focus on architecture, project manag
 ### 🧮 [java-rpn-scientific-calculator](https://github.com/francescopiocirillo/java-rpn-scientific-calculator)
 A fully-featured Java Scientific Calculator based on Reverse Polish Notation (RPN) and advanced stack operations, developed with a GUI, JUnit testing, and UML planning. Built as part of a university software engineering project using the Waterfall model.
 
-### 🍝 [FlyingSauce-r](https://github.com/francescopiocirillo/FlyingSauce-r-)
+### 🍝 [flying-sauce-r](https://github.com/francescopiocirillo/FlyingSauce-r-)
 A pasta delivery app with a twist, designed as a fun, functional PHP project with backend logic and UI considerations.
 
 ### 📅 [EventManagerMobileApp](https://github.com/francescopiocirillo/EventManagerMobileApp)
