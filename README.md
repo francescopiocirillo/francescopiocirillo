@@ -70,7 +70,7 @@ If you're interested in AI, engineering, or just love tech chats: feel free to r
 
 - 📧 francescopiocirillo.c@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/francescopiocirillo/)
-- 🌐 [GitHub](https://github.com/yourusername)
+- 🌐 [GitHub](https://github.com/francescopiocirillo)
 
 ---
 
