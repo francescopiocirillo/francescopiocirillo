@@ -56,8 +56,8 @@ A fully-featured Java Scientific Calculator based on Reverse Polish Notation (RP
 ### 🍝 [flying-sauce-r](https://github.com/francescopiocirillo/FlyingSauce-r-)
 A pasta delivery app with a twist, designed as a fun, functional PHP project with backend logic and UI considerations.
 
-### 📅 [EventManagerMobileApp](https://github.com/francescopiocirillo/EventManagerMobileApp)
-A cross-platform mobile app to track and manage events. Developed with Dart and Flutter.
+### 📅 [event-manager-flutter-app](https://github.com/francescopiocirillo/EventManagerMobileApp)
+A cross-platform mobile app to track and manage events. Developed with Dart and Flutter. Built as part of a 3-month university project by a 2-person team, it features local data persistence with SQLite, responsive UI, customizable statistics, and a clear dashboard to track upcoming and past events.
 
 ### 🔍 [react-rag-app](https://github.com/francescopiocirillo/react-rag-app)
 A lightweight RAG (Retrieval-Augmented Generation) app built with React.js, combining AI integration with modern frontend architecture.
