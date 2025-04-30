@@ -45,7 +45,9 @@ I believe in blending **technical depth** with **real-world problem solving**, a
 Here are some of my favorite repositories you’ll find on my GitHub:
 
 ### 📊 [data-science-appunti](https://github.com/francescopiocirillo/data-science-appunti)
-Structured notes and resources on Data Science and Statistical Learning, including regression, Bayesian inference, classification, and unsupervised learning. The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
+
+* IT: Appunti strutturati e risorse su Data Science e Apprendimento Statistico, inclusi regressione, inferenza Bayesiana, classificazione e apprendimento non supervisionato.
+* ENG: Structured notes and resources on Data Science and Statistical Learning, including regression, Bayesian inference, classification, and unsupervised learning. The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
 
 ### 📝 [software-engineering-appunti](https://github.com/francescopiocirillo/software-engineering-appunti)
 Key concepts of Software Engineering with a focus on architecture, project management, and design patterns, curated from academic lectures and practical insights. The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
