@@ -50,7 +50,9 @@ Here are some of my favorite repositories you’ll find on my GitHub:
 * ENG: Structured notes and resources on Data Science and Statistical Learning, including regression, Bayesian inference, classification, and unsupervised learning. The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
 
 ### 📝 [software-engineering-appunti](https://github.com/francescopiocirillo/software-engineering-appunti)
-Key concepts of Software Engineering with a focus on architecture, project management, and design patterns, curated from academic lectures and practical insights. The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
+
+* IT: Concetti chiave di Ingegneria del Software con un focus su architettura, gestione dei progetti e design pattern, curati da lezioni accademiche e intuizioni pratiche.
+* ENG: Key concepts of Software Engineering with a focus on architecture, project management, and design patterns, curated from academic lectures and practical insights. The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
 
 ### 🧮 [java-rpn-scientific-calculator](https://github.com/francescopiocirillo/java-rpn-scientific-calculator)
 A fully-featured Java Scientific Calculator based on Reverse Polish Notation (RPN) and advanced stack operations, developed with a GUI, JUnit testing, and UML planning. Built as part of a university software engineering project using the Waterfall model.
