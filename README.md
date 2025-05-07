@@ -57,10 +57,10 @@ Here are some of my favorite repositories you’ll find on my GitHub:
 ### 🧮 [java-rpn-scientific-calculator](https://github.com/francescopiocirillo/java-rpn-scientific-calculator)
 A fully-featured Java Scientific Calculator based on Reverse Polish Notation (RPN) and advanced stack operations, developed with a GUI, JUnit testing, and UML planning. Built as part of a university software engineering project using the Waterfall model.
 
-### 🍝 [flying-sauce-r](https://github.com/francescopiocirillo/FlyingSauce-r-)
+### 🍝 [flying-sauce-r](https://github.com/francescopiocirillo/flying-sauce-r)
 A pasta delivery app with a twist, designed as a fun, functional PHP project with backend logic and UI considerations.
 
-### 📅 [event-manager-flutter-app](https://github.com/francescopiocirillo/EventManagerMobileApp)
+### 📅 [event-manager-flutter-app](https://github.com/francescopiocirillo/event-manager-flutter-app)
 A cross-platform mobile app to track and manage events. Developed with Dart and Flutter. Built as part of a 3-month university project by a 2-person team, it features local data persistence with SQLite, responsive UI, customizable statistics, and a clear dashboard to track upcoming and past events.
 
 ### 🔍 [react-rag-app](https://github.com/francescopiocirillo/react-rag-app)
