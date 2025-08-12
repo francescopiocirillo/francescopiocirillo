@@ -40,9 +40,38 @@ I believe in blending **technical depth** with **real-world problem solving**, a
 
 ---
 
-## 📌 Highlighted Projects
+# 📌 Highlighted Projects
 
 Here are some of my favorite repositories you’ll find on my GitHub:
+
+## 🧠 Artificial Intelligence and Data Analysis
+
+### 🤖 [semantic-segmentation-deeplabv3-pytorch](https://github.com/francescopiocirillo/semantic-segmentation-deeplabv3-pytorch)
+Comprehensive study & optimization of semantic segmentation models for rural roads. Deep learning semantic segmentation to power computer vision systems for autonomous vehicles in rural environments. PyTorch + CUDA optimized. Evaluated several architectures, achieved 60%+ mIoU with DeepLabV3+ResNet101.
+
+### 📶 [bit-decoding-sgd-logistic-regression](https://github.com/francescopiocirillo/bit-decoding-sgd-logistic-regression)
+Logistic regression classifier for bit decoding in binary vectors using stochastic gradient descent (SGD). Features performance evaluation, probabilistic modeling, confusion matrix analysis, and classification error interpretation. Developed in Python with Jupyter Notebook.
+
+### 📈 [linear-regression-from-scratch-R](https://github.com/francescopiocirillo/linear-regression-from-scratch-R)
+Hands-on regression analysis project in R using a dataset with 30 predictors. Includes manual OLS implementation without lm(), p-value computation, and comparison with built-in functions. Applies stepwise selection (AIC/BIC), Ridge, and Lasso to minimize test error and identify key predictors.
+
+## 💻 Software Engineering
+
+### 🎨 [draw-snap-drawing-tool](https://github.com/francescopiocirillo/draw-snap-drawing-tool)
+DrawSnap is a **Java-based** geometric drawing tool built with **Scrum methodology**. It supports creating and editing shapes (lines, rectangles, ellipses, polygons, text), grouping, custom shape libraries, and advanced editing features like rotation, mirroring, and unlimited undo.
+
+### 🧮 [java-rpn-scientific-calculator](https://github.com/francescopiocirillo/java-rpn-scientific-calculator)
+A fully-featured **Java** Scientific Calculator based on Reverse Polish Notation (RPN) and advanced stack operations, developed with a GUI, JUnit testing, and UML planning. Built as part of a university software engineering project using the **Waterfall model** and producing ample documentation also, but not only, using **UML diagrams**.
+
+## 📲 Front-end development
+
+### 🍝 [flying-sauce-r](https://github.com/francescopiocirillo/flying-sauce-r)
+A pasta delivery app with a twist, designed as a fun, functional PHP project with backend logic and UI considerations.
+
+### 📅 [event-manager-flutter-app](https://github.com/francescopiocirillo/event-manager-flutter-app)
+A cross-platform mobile app to track and manage events. Developed with Dart and Flutter. Built as part of a 3-month university project by a 2-person team, it features local data persistence with SQLite, responsive UI, customizable statistics, and a clear dashboard to track upcoming and past events.
+
+## 🏫 Educational content
 
 ### 📊 [data-science-appunti](https://github.com/francescopiocirillo/data-science-appunti)
 
@@ -53,18 +82,6 @@ Here are some of my favorite repositories you’ll find on my GitHub:
 
 * IT: Concetti chiave di Ingegneria del Software con un focus su architettura, gestione dei progetti e design pattern, curati da lezioni accademiche e intuizioni pratiche.
 * ENG: Key concepts of Software Engineering with a focus on architecture, project management, and design patterns, curated from academic lectures and practical insights. The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
-
-### 🧮 [java-rpn-scientific-calculator](https://github.com/francescopiocirillo/java-rpn-scientific-calculator)
-A fully-featured Java Scientific Calculator based on Reverse Polish Notation (RPN) and advanced stack operations, developed with a GUI, JUnit testing, and UML planning. Built as part of a university software engineering project using the Waterfall model.
-
-### 🍝 [flying-sauce-r](https://github.com/francescopiocirillo/flying-sauce-r)
-A pasta delivery app with a twist, designed as a fun, functional PHP project with backend logic and UI considerations.
-
-### 📅 [event-manager-flutter-app](https://github.com/francescopiocirillo/event-manager-flutter-app)
-A cross-platform mobile app to track and manage events. Developed with Dart and Flutter. Built as part of a 3-month university project by a 2-person team, it features local data persistence with SQLite, responsive UI, customizable statistics, and a clear dashboard to track upcoming and past events.
-
-### 🔍 [react-rag-app](https://github.com/francescopiocirillo/react-rag-app)
-A lightweight RAG (Retrieval-Augmented Generation) app built with React.js, combining AI integration with modern frontend architecture.
 
 ---
 
