@@ -65,23 +65,33 @@ A fully-featured **Java** Scientific Calculator based on Reverse Polish Notation
 
 ## 📲 Front-end development
 
-### 🍝 [flying-sauce-r](https://github.com/francescopiocirillo/flying-sauce-r)
-A full-stack pasta delivery web app built with PHP, JavaScript, HTML, and CSS. Features include dynamic cart management, user authentication and a customizable pasta builder. Developed in a team of 4 during a 3-month university project. It highlights skills in web development, database integration, and UI/UX design.
-
 ### 📅 [event-manager-flutter-app](https://github.com/francescopiocirillo/event-manager-flutter-app)
 A cross-platform mobile app to track and manage events. Developed with Dart and Flutter. Built as part of a 3-month university project by a 2-person team, it features local data persistence with SQLite, responsive UI, customizable statistics, and a clear dashboard to track upcoming and past events.
 
+### 🍝 [flying-sauce-r](https://github.com/francescopiocirillo/flying-sauce-r)
+A full-stack pasta delivery web app built with PHP, JavaScript, HTML, and CSS. Features include dynamic cart management, user authentication and a customizable pasta builder. Developed in a team of 4 during a 3-month university project. It highlights skills in web development, database integration, and UI/UX design.
+
+## 🧑‍💻 Cybersecurity and Database Design
+
+## 🔐 [uni-trust-credential-management-system](https://github.com/francescopiocirillo/uni-trust-credential-management-system)
+Uni Trust is a system designed for the management, selective sharing, and revocation of digital academic credentials in the context of international student mobility, such as the Erasmus program. The project adopts a decentralized, privacy-preserving, and interoperable approach, based on modern technologies.
+
+## 🐟 [fish2home-postgresql-database](https://github.com/francescopiocirillo/fish2home-postgresql-database)
+Relational database project implemented in PostgreSQL for managing a seafood delivery system. Includes full SQL schema, constraints, triggers, views, sample data population, and complex queries for analytics. Covers order management, fishing methods, fishermen, boats, riders, customers, and payment handling.
+
 ## 🏫 Educational content
+
+The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
 
 ### 📊 [data-science-appunti](https://github.com/francescopiocirillo/data-science-appunti)
 
 * IT: Appunti strutturati e risorse su Data Science e Apprendimento Statistico, inclusi regressione, inferenza Bayesiana, classificazione e apprendimento non supervisionato.
-* ENG: Structured notes and resources on Data Science and Statistical Learning, including regression, Bayesian inference, classification, and unsupervised learning. The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
+* ENG: Structured notes and resources on Data Science and Statistical Learning, including regression, Bayesian inference, classification, and unsupervised learning.
 
 ### 📝 [software-engineering-appunti](https://github.com/francescopiocirillo/software-engineering-appunti)
 
 * IT: Concetti chiave di Ingegneria del Software con un focus su architettura, gestione dei progetti e design pattern, curati da lezioni accademiche e intuizioni pratiche.
-* ENG: Key concepts of Software Engineering with a focus on architecture, project management, and design patterns, curated from academic lectures and practical insights. The notes are in **Italian**, as they are based on courses I attended at an **Italian university**.
+* ENG: Key concepts of Software Engineering with a focus on architecture, project management, and design patterns, curated from academic lectures and practical insights.
 
 ---
 
