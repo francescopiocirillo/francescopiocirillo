@@ -66,7 +66,7 @@ A fully-featured **Java** Scientific Calculator based on Reverse Polish Notation
 ## 📲 Front-end development
 
 ### 🍝 [flying-sauce-r](https://github.com/francescopiocirillo/flying-sauce-r)
-A pasta delivery app with a twist, designed as a fun, functional PHP project with backend logic and UI considerations.
+A full-stack pasta delivery web app built with PHP, JavaScript, HTML, and CSS. Features include dynamic cart management, user authentication and a customizable pasta builder. Developed in a team of 4 during a 3-month university project. It highlights skills in web development, database integration, and UI/UX design.
 
 ### 📅 [event-manager-flutter-app](https://github.com/francescopiocirillo/event-manager-flutter-app)
 A cross-platform mobile app to track and manage events. Developed with Dart and Flutter. Built as part of a 3-month university project by a 2-person team, it features local data persistence with SQLite, responsive UI, customizable statistics, and a clear dashboard to track upcoming and past events.
