@@ -47,9 +47,9 @@ I believe in blending **technical depth** with **real-world problem solving**, a
 * **Python** (PyTorch, NumPy, Pandas, Scikit-learn, Jupyter)
 * **Java** (OOP, GUI, JUnit, UML-driven design)
 * **R** (Statistical Modeling, Regression Analysis)
-* **SQL** (PostgreSQL)
+* **SQL** (PostgreSQL, SQLite, schema design, triggers, views, complex queries)
 * **Dart** (Flutter)
-* **C / C++** (academic projects & foundations)
+* **C / C++**
 * **PHP, JavaScript, HTML, CSS**
 
 ### 🛠️ Frameworks & Tools
@@ -63,19 +63,7 @@ I believe in blending **technical depth** with **real-world problem solving**, a
 * Linux environment
 * Scrum & Waterfall methodologies
 
-### 🗄️ Databases & Data Engineering
-
-* PostgreSQL (schema design, triggers, views, complex queries)
-* SQLite
-* Database normalization & ER design
-
-### 🔐 Cybersecurity & System Design
-
-* Credential Management Systems
-* Privacy-preserving architectures
-* Secure system design principles
-
-### 🌍 Soft Skills
+## 🌍 Soft Skills
 
 * Analytical thinking & problem solving
 * Strong academic background (110/110 Cum Laude)
