@@ -44,10 +44,15 @@ I believe in blending **technical depth** with **real-world problem solving**, a
 
 Here are some of my favorite repositories you’ll find on my GitHub:
 
-## 🧠 Artificial Intelligence and Data Analysis
+## 🧠 Artificial Intelligence
+
+### 📸 [soccer-players-tracking](https://github.com/francescopiocirillo/soccer-players-tracking)
+Computer vision project for soccer player detection, multi-object tracking and behavior analysis from broadcast videos. Evaluated using HOTA0.5 and normalized MAE, with final PTBS score. Developed for an Artificial Vision academic challenge.
 
 ### 🤖 [semantic-segmentation-deeplabv3-pytorch](https://github.com/francescopiocirillo/semantic-segmentation-deeplabv3-pytorch)
 Comprehensive study & optimization of semantic segmentation models for rural roads. Deep learning semantic segmentation to power computer vision systems for autonomous vehicles in rural environments. PyTorch + CUDA optimized. Evaluated several architectures, achieved 60%+ mIoU with DeepLabV3+ResNet101.
+
+## 📊 Data Analysis
 
 ### 📶 [bit-decoding-sgd-logistic-regression](https://github.com/francescopiocirillo/bit-decoding-sgd-logistic-regression)
 Logistic regression classifier for bit decoding in binary vectors using stochastic gradient descent (SGD). Features performance evaluation, probabilistic modeling, confusion matrix analysis, and classification error interpretation. Developed in Python with Jupyter Notebook.
@@ -73,10 +78,10 @@ A full-stack pasta delivery web app built with PHP, JavaScript, HTML, and CSS. F
 
 ## 🧑‍💻 Cybersecurity and Database Design
 
-## 🔐 [uni-trust-credential-management-system](https://github.com/francescopiocirillo/uni-trust-credential-management-system)
+### 🔐 [uni-trust-credential-management-system](https://github.com/francescopiocirillo/uni-trust-credential-management-system)
 Uni Trust is a system designed for the management, selective sharing, and revocation of digital academic credentials in the context of international student mobility, such as the Erasmus program. The project adopts a decentralized, privacy-preserving, and interoperable approach, based on modern technologies.
 
-## 🐟 [fish2home-postgresql-database](https://github.com/francescopiocirillo/fish2home-postgresql-database)
+### 🐟 [fish2home-postgresql-database](https://github.com/francescopiocirillo/fish2home-postgresql-database)
 Relational database project implemented in PostgreSQL for managing a seafood delivery system. Includes full SQL schema, constraints, triggers, views, sample data population, and complex queries for analytics. Covers order management, fishing methods, fishermen, boats, riders, customers, and payment handling.
 
 ## 🏫 Educational content
