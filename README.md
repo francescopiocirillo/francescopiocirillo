@@ -27,16 +27,61 @@ I'm currently pursuing my Master's Degree in **Computer Engineering** at Univers
 
 Thanks to my commitment and curiosity, I won the **Iliad STEM Scholarship (2nd Edition)**, earning mentorship from leaders in the tech industry and participating in high-impact workshops around corporate innovation and performance.
 
-I believe in blending **technical depth** with **real-world problem solving**, and I thrive in multilingual, multicultural environments 🌍 (I am fluent in English 🇬🇧 and Italian 🇮🇹... and I speak a bit of Spanish 🇪🇸 too!).
+I believe in blending **technical depth** with **real-world problem solving**, and I thrive in multilingual, multicultural environments 🌍 (I am **fluent** in English 🇬🇧 and Italian 🇮🇹... and I speak a bit of Spanish 🇪🇸 too!).
 
 ---
 
 ## 🧠 Key Skills & Technologies
 
-- **AI & LLMs**: LangChain, Vertex AI, Python, Qiskit
-- **Engineering & Design**: Algorithm Design, Data Structures, Verilog, QuestaSim
-- **Software Development**: React.js, JavaScript, Java, Dart, Flutter
-- **Other Tools**: Git, SQL, HTML/CSS, Android Development, Automation
+### 🤖 Artificial Intelligence & Machine Learning
+
+* Deep Learning (CNN, Semantic Segmentation)
+* Computer Vision (Object Detection, Multi-Object Tracking, Image Segmentation)
+* Generative AI & LLM Applications (Diffusion Models, LLMs, LangChain, Vertex AI)
+* Supervised & Unsupervised Learning
+* Model Evaluation (mIoU, HOTA, MAE, Confusion Matrix, AIC/BIC)
+* Optimization Techniques (SGD, Regularization – Ridge/Lasso)
+
+### 💻 Programming Languages
+
+* **Python** (PyTorch, NumPy, Pandas, Scikit-learn, Jupyter)
+* **Java** (OOP, GUI, JUnit, UML-driven design)
+* **R** (Statistical Modeling, Regression Analysis)
+* **SQL** (PostgreSQL)
+* **Dart** (Flutter)
+* **C / C++** (academic projects & foundations)
+* **PHP, JavaScript, HTML, CSS**
+
+### 🛠️ Frameworks & Tools
+
+* PyTorch & CUDA
+* Flutter
+* LangChain
+* Google Cloud Vertex AI
+* Git & GitHub
+* Docker
+* Linux environment
+* Scrum & Waterfall methodologies
+
+### 🗄️ Databases & Data Engineering
+
+* PostgreSQL (schema design, triggers, views, complex queries)
+* SQLite
+* Database normalization & ER design
+
+### 🔐 Cybersecurity & System Design
+
+* Credential Management Systems
+* Privacy-preserving architectures
+* Secure system design principles
+
+### 🌍 Soft Skills
+
+* Analytical thinking & problem solving
+* Strong academic background (110/110 Cum Laude)
+* Multilingual: 🇮🇹 Italian (native), 🇬🇧 English (fluent), 🇪🇸 Spanish (basic)
+* Teamwork in international and multidisciplinary environments
+* Fast learner & innovation-driven mindset
 
 ---
 
