@@ -46,6 +46,9 @@ Here are some of my favorite repositories you’ll find on my GitHub:
 
 ## 🧠 Artificial Intelligence
 
+### 👤 [celeba-conditional-diffusion](https://github.com/francescopiocirillo/celeba-conditional-diffusion)
+Conditional diffusion model for 64x64 face generation on CelebA, conditioned on gender, smile, and age attributes. Implements a DDPM-based architecture for controllable face synthesis and attribute-guided sampling.
+
 ### 📸 [soccer-players-tracking](https://github.com/francescopiocirillo/soccer-players-tracking)
 Computer vision project for soccer player detection, multi-object tracking and behavior analysis from broadcast videos. Evaluated using HOTA0.5 and normalized MAE, with final PTBS score. Developed for an Artificial Vision academic challenge.
 
