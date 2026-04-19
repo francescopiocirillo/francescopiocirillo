@@ -31,48 +31,6 @@ I believe in blending **technical depth** with **real-world problem solving**, a
 
 ---
 
-## 🧠 Key Skills & Technologies
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-* Deep Learning (CNN, Semantic Segmentation)
-* Computer Vision (Object Detection, Multi-Object Tracking, Image Segmentation)
-* Generative AI & LLM Applications (Diffusion Models, LLMs, LangChain, Vertex AI)
-* Supervised & Unsupervised Learning
-* Model Evaluation (mIoU, HOTA, MAE, Confusion Matrix, AIC/BIC)
-* Optimization Techniques (SGD, Regularization – Ridge/Lasso)
-
-### 💻 Programming Languages
-
-* **Python** (PyTorch, NumPy, Pandas, Scikit-learn, Jupyter)
-* **Java** (OOP, GUI, JUnit, UML-driven design)
-* **R** (Statistical Modeling, Regression Analysis)
-* **SQL** (PostgreSQL, SQLite, schema design, triggers, views, complex queries)
-* **Dart** (Flutter)
-* **C / C++**
-* **PHP, JavaScript, HTML, CSS**
-
-### 🛠️ Frameworks & Tools
-
-* PyTorch & CUDA
-* Flutter
-* LangChain
-* Google Cloud Vertex AI
-* Git & GitHub
-* Docker
-* Linux environment
-* Scrum & Waterfall methodologies
-
-## 🌍 Soft Skills
-
-* Analytical thinking & problem solving
-* Strong academic background (110/110 Cum Laude)
-* Multilingual: 🇮🇹 Italian (native), 🇬🇧 English (fluent), 🇪🇸 Spanish (basic)
-* Teamwork in international and multidisciplinary environments
-* Fast learner & innovation-driven mindset
-
----
-
 # 📌 Highlighted Projects
 
 Here are some of my favorite repositories you’ll find on my GitHub:
@@ -133,6 +91,48 @@ The notes are in **Italian**, as they are based on courses I attended at an **It
 
 * IT: Concetti chiave di Ingegneria del Software con un focus su architettura, gestione dei progetti e design pattern, curati da lezioni accademiche e intuizioni pratiche.
 * ENG: Key concepts of Software Engineering with a focus on architecture, project management, and design patterns, curated from academic lectures and practical insights.
+
+---
+
+## 🧠 Key Skills & Technologies
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+* Deep Learning (CNN, Semantic Segmentation)
+* Computer Vision (Object Detection, Multi-Object Tracking, Image Segmentation)
+* Generative AI & LLM Applications (Diffusion Models, LLMs, LangChain, Vertex AI)
+* Supervised & Unsupervised Learning
+* Model Evaluation (mIoU, HOTA, MAE, Confusion Matrix, AIC/BIC)
+* Optimization Techniques (SGD, Regularization – Ridge/Lasso)
+
+### 💻 Programming Languages
+
+* **Python** (PyTorch, NumPy, Pandas, Scikit-learn, Jupyter)
+* **Java** (OOP, GUI, JUnit, UML-driven design)
+* **R** (Statistical Modeling, Regression Analysis)
+* **SQL** (PostgreSQL, SQLite, schema design, triggers, views, complex queries)
+* **Dart** (Flutter)
+* **C / C++**
+* **PHP, JavaScript, HTML, CSS**
+
+### 🛠️ Frameworks & Tools
+
+* PyTorch & CUDA
+* Flutter
+* LangChain
+* Google Cloud Vertex AI
+* Git & GitHub
+* Docker
+* Linux environment
+* Scrum & Waterfall methodologies
+
+## 🌍 Soft Skills
+
+* Analytical thinking & problem solving
+* Strong academic background (110/110 Cum Laude)
+* Multilingual: 🇮🇹 Italian (native), 🇬🇧 English (fluent), 🇪🇸 Spanish (basic)
+* Teamwork in international and multidisciplinary environments
+* Fast learner & innovation-driven mindset
 
 ---
 
