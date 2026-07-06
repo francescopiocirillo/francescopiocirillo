@@ -37,6 +37,9 @@ Here are some of my favorite repositories you’ll find on my GitHub:
 
 ## 🧠 Artificial Intelligence
 
+### 💬 [diem-rag-chatbot](https://github.com/francescopiocirillo/diem-rag-chatbot)
+LLM-powered RAG chatbot for the University of Salerno DIEM department, featuring hybrid retrieval, multilingual support and hallucination mitigation.
+
 ### 👤 [celeba-conditional-diffusion](https://github.com/francescopiocirillo/celeba-conditional-diffusion)
 Conditional diffusion model for 64x64 face generation on CelebA, conditioned on gender, smile, and age attributes. Implements a DDPM-based architecture for controllable face synthesis and attribute-guided sampling.
 
